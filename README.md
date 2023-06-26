@@ -10,7 +10,7 @@ Website: https://www.thinkingsecurity.works
 
 ## Roadmap
 
-Yet to be created:
+To be created:
 - The Canvas Method Manual
 - Risk Analyses Cards
 - Policy Cards
