@@ -12,7 +12,9 @@ Website: https://www.thinkingsecurity.works
 
 To be created:
 - The Canvas Method Manual
-- Risk Analyses Cards
+- Risk Analysis Cards
 - Policy Cards
-- ISO 27001 Control Cards
+- Workshop documentation template
+- Planning Board
+- ISO 27002 Control Cards
 - Templates for mandatory ISO 27001 artefacts
