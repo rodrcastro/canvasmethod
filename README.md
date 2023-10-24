@@ -1,20 +1,11 @@
-# The Canvas Method for Information Security
+# The Canvas Method for Risk Management
 
-Use the Canvas Method for Information Security to increase risk awareness and ownership throughout the organization. 
+The Canvas Method is a lightweight, communicative and attractive way to engage stakeholders in risk identification and risk reduction, across organisational boundaries.
 
-The 4 canvases are designed to be used in a workshop setting, to implement a continuous and structured dialogue about risk sources, risks, controls, incidents and improvements. 
+The Canvas Method identifies previously unknown risks in business processes, and raises the maturity level of risk management.
 
-The Canvas Method is especially valuable for organizational units where affinity with information technology is typically low. Using the method will improve understanding of cybersecurity risk and controls management amongst non-technical personnel, and help them identify areas where they can and should take responsibility themselves. 
+The Canvas Method is compatible with the High Level Structure (HLS) of ISO standards, and as such has many successful application domains, like information security, food safety and social sustainability.
 
-Website: https://www.thinkingsecurity.works
+Here's a [short video](https://www.youtube.com/watch?v=Gy-yQ2UbSzA) highlighting the use of the Canvases in the domain of information security.
 
-## Roadmap
-
-To be created:
-- The Canvas Method Manual
-- Risk Analysis Cards
-- Policy Cards
-- Workshop documentation template
-- Planning Board
-- ISO 27002 Control Cards
-- Templates for mandatory ISO 27001 artefacts
+Website: https://canvasmethod.org
