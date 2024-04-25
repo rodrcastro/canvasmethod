@@ -1,6 +1,6 @@
 # The Canvas Method for Risk Management
 
-The Canvas Method is a lightweight, communicative and attractive way to engage stakeholders in risk identification and risk reduction, across organisational boundaries.
+The Canvas Method is a workshop-based risk management method to engage stakeholders in risk identification and risk reduction, across organisational boundaries. It is lightweight, communicative and actionable and creates involvement in business teams, by focussing on recognizable risks in their own workflows.
 
 The Canvas Method identifies previously unknown risks in business processes, and raises the maturity level of risk management.
 
