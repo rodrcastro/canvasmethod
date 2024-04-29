@@ -2,7 +2,7 @@
 
 ## How to Contribute
 
-Firstly, we would like to express our utmost gratitude to you for showing interest in contributing to our risk management workshop documentation project. Your willingness to contribute helps us create a valuable resource that will benefit many individuals and teams.
+Firstly, we would like to express our utmost gratitude to you for showing interest in contributing to the Canvas Method for risk management. Your willingness to contribute helps us create a valuable resource that will benefit many individuals and teams.
 
 ### STEP 1: Set Up Your Environment 
 
