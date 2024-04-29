@@ -1,3 +1,5 @@
+All materials for and documentation of the Canvas Method are licensed under CC BY-SA 4.0.
+
 Attribution-ShareAlike 4.0 International
 
 =======================================================================
