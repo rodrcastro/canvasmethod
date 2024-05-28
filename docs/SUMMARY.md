@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Inleiding](README.md)
+* [Introduction](README.md)

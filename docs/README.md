@@ -1,3 +1,3 @@
-# Inleiding
+# Introduction
 
-Dit is de inleiding van de Nederlandstalige versie
+This is the first page of the English manual
