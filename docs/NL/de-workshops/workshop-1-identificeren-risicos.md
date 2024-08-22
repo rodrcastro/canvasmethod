@@ -11,3 +11,5 @@ De Workshop Facilitator geeft een korte introductie over het doel van het projec
 Vervolgens start hij/zij het interactieve deel van de workshop.
 
 De onderstaande onderwerpen worden behandeld met behulp van het Canvas.
+
+{% file src="../.gitbook/assets/Risico Canvas.pdf" %}
