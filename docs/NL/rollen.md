@@ -12,5 +12,14 @@ De samenstelling van het Canvas Board is afhankelijk van de structuur en rolverd
 * de Compliance Officer en/of de Functionaris Gegevensbescherming, en/of Kwaliteitsmanager, die (gedelegeerd) verantwoordelijk is voor compliance met relevante wet- en regelgeving en interne normenkaders;
 * de CIO, die (gedelegeerd) verantwoordelijk is voor de implementatie van (technische) beveiligingsmaatregelen, eventueel samen met de IT leverancier.
 
+## Team Captain
 
+n.t.b.
 
+## Workshop Facilitator
+
+n.t.b.
+
+## Deelnemer
+
+n.t.b.
