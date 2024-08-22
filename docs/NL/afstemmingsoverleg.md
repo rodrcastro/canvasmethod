@@ -1,5 +1,7 @@
 # Afstemmingsoverleg
 
+In het Afstemmingsoverleg komen de Team Captains samen de Canvas Board, om risico’s en maatregelen te bespreken. Het Afstemmingsoverleg wordt georganiseerd nadat alle teams de Workshop Maatregelen hebben afgerond.
+
 ## Doel
 
 Het maken van afdelingsoverstijgende afspraken over risicobehandeling, prioriteiten, maatregelen, acties en actiehouders, meetmethoden en streefgetallen (beoogde effectiviteit).
@@ -66,3 +68,9 @@ Het afstemmingsoverleg zorgt voor verrijking en correcties. Van belang is dat de
 Het resultaat van het Afstemmingsoverleg is het, door het Canvas Board afgetekende Risicobehandelplan. Dit bevat afdelingsoverstijgende afspraken over risicobehandeling, prioriteiten, maatregelen, acties en actiehouders, meetmethoden en streefgetallen (beoogde effectiviteit).
 
 Het Risicobehandelplan vormt de grondslag voor een implementatieplan.
+
+## Implementatie van maatregelen
+
+Projectplanning en -bewaking vallen buiten de scope van de Canvas Methode en kunnen ingericht worden in de systemen die de organisatie daarvoor heeft.
+
+Het is aan te raden om voor iedere maatregel een eigenaar vast te stellen (‘Control Owner’), die verantwoordelijk is voor de implementatie en documentatie van de maatregel.
