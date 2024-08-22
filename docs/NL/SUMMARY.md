@@ -8,4 +8,5 @@
 
 ## De Workshops
 
-* [Workshop 1: Identificeren risico’s](de-workshops/workshop-1-identificeren-risicos.md)
+* [Workshop 1: Risico’s](de-workshops/workshop-1-risicos.md)
+* [Workshop 2: Maatregelen](de-workshops/workshop-2-maatregelen.md)
