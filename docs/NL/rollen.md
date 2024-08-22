@@ -16,9 +16,17 @@ De samenstelling van het Canvas Board is afhankelijk van de structuur en rolverd
 
 n.t.b.
 
+## Risico eigenaar
+
+De business owner is eigenaar van de risico’s, die impact hebben op haar bedrijfsproces en informatie-assets. Zij is dus degene die besluit of een (rest-)risico geaccepteerd mag worden.
+
 ## Workshop Facilitator
 
-n.t.b.
+De Workshop Facilitator is een procesbegeleider, het team besluit.
+
+## Canvas Team
+
+Een Canvas Team is een groep medewerkers die deelneemt aan een cyclus van workshops. Dit team vertegenwoordigt een bepaalde afdeling of functionele groep binnen de organisatie. Het team moet zich vrij voelen om risico's en maatregelen te bespreken, zonder daar op afgerekend te worden. Het is daarom vaak niet raadzaam om een hierarchisch verantwoordelijke op te nemen in het team: dit kan er toe leiden dat andere deelnemers sociaal wenselijk gedrag gaan vertonen en bepaalde risico’s niet, of anders benoemen.
 
 ## Deelnemer
 
