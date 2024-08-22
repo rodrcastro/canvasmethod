@@ -11,3 +11,7 @@
 * [Workshop 1: Risico’s](de-workshops/workshop-1-identificeren-risicos.md)
 * [Workshop 2: Maatregelen](de-workshops/workshop-2-maatregelen.md)
 * [Workshop 3: Effectiviteit](de-workshops/workshop-3-effectiviteit.md)
+
+***
+
+* [Naar de volgende cyclus](naar-de-volgende-cyclus.md)
