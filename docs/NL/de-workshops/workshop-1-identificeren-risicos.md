@@ -12,4 +12,4 @@ Vervolgens start hij/zij het interactieve deel van de workshop.
 
 De onderstaande onderwerpen worden behandeld met behulp van het Canvas.
 
-{% file src="../.gitbook/assets/Risico Canvas.pdf" %}
+<figure><img src="../.gitbook/assets/Risico Canvas.png" alt=""><figcaption></figcaption></figure>
