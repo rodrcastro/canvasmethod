@@ -4,7 +4,7 @@
 
 Het maken van afdelingsoverstijgende afspraken over risicobehandeling, prioriteiten, maatregelen, acties en actiehouders, meetmethoden en streefgetallen (beoogde effectiviteit).
 
-Deze afspraken worden vastgelegd in een Risicobehandelplan, dat afgetekend wordt door het Risk Board.
+Deze afspraken worden vastgelegd in een Risicobehandelplan, dat afgetekend wordt door het Canvas Board.
 
 Dit Risicobehandelplan vormt de grondslag voor een implementatieplan.
 
@@ -13,10 +13,10 @@ Dit Risicobehandelplan vormt de grondslag voor een implementatieplan.
 Bij het Afstemmingsoverleg zitten de volgende partijen aan:
 
 * de Team Captains
-* het Risk Board
+* het [#canvas-board](rollen.md#canvas-board "mention")
 * een Facilitator
 
-De Team Captains presenteren de risico's namens hun teams, het Risk Board neemt besluiten, de Facilitator leidt het overleg.
+De Team Captains presenteren de risico's namens hun teams, het Canvas Board neemt besluiten, de Facilitator leidt het overleg.
 
 ## Insteek
 
@@ -29,13 +29,13 @@ De teams hebben in de workshops risico’s geïdentificeerd en ondergebracht in 
 
 Er zijn ook risico’s waaraan ze een lagere prioriteit hebben toegekend en waarvoor nog geen behandelstrategie is gekozen. Deze risico’s willen ze doorschuiven naar een volgende cyclus.
 
-De Team Captains vragen akkoord van het Risk Board op de voorgestelde risicobehandeling.
+De Team Captains vragen akkoord van het Canvas Board op de voorgestelde risicobehandeling.
 
 Tevens wordt bekeken hoe een risico relevant is voor andere teams en of men samen op kan trekken in bepaalde maatregelen (of dat een ander team een betere oplossing heeft).
 
 ## Vraagstelling richting het Risk Board
 
-De vraagstelling van de Team Captains richting het Risk Board is voor de verschillende categorieën als volgt.
+De vraagstelling van de Team Captains richting het Canvas Board is voor de verschillende categorieën als volgt.
 
 **Te beheersen risico’s:** deze risico’s kan en wil het team zelf aanpakken. Het team wil hiervoor een toezegging dat de benodigde tijd en middelen besteed mogen worden.
 
@@ -43,11 +43,11 @@ De vraagstelling van de Team Captains richting het Risk Board is voor de verschi
 
 Het Risk Board kan in beide gevallen besluiten dat een risico geaccepteerd wordt. Dit kan frustrerend zijn voor het betreffende team, maar geeft wel duidelijkheid over verantwoordelijkheden m.b.t. het risico en de eventuele gevolgen ervan.
 
-**Te accepteren risico’s:** het team is van mening dat een risico acceptabel is (of dat het simpelweg praktisch niet mogelijk of haalbaar is maatregelen te treffen). Men vraagt van het Risk Board de bevestiging dat het risico acceptabel is.
+**Te accepteren risico’s:** het team is van mening dat een risico acceptabel is (of dat het simpelweg praktisch niet mogelijk of haalbaar is maatregelen te treffen). Men vraagt van het Canvas Board de bevestiging dat het risico acceptabel is.
 
 **Te vermijden risico’s:** het team wil het risico vermijden door bijv. een bepaalde activiteit te staken of een stuk techniek niet meer te gebruiken. Het team vraagt hiervoor akkoord.
 
-**Risico’s om later op te pakken:** het team is van mening dat een risico lagere prioriteit heeft, en wil de behandeling daarvan doorschuiven naar een volgende cyclus. Ook hier vraagt met akkoord van het Risk Board.
+**Risico’s om later op te pakken:** het team is van mening dat een risico lagere prioriteit heeft, en wil de behandeling daarvan doorschuiven naar een volgende cyclus. Ook hier vraagt met akkoord van het Canvas Board.
 
 ## Proces
 
@@ -63,6 +63,6 @@ Het afstemmingsoverleg zorgt voor verrijking en correcties. Van belang is dat de
 
 ## Verslaglegging
 
-Het resultaat van het Afstemmingsoverleg is het, door het Risk Board afgetekende Risicobehandelplan. Dit bevat afdelingsoverstijgende afspraken over risicobehandeling, prioriteiten, maatregelen, acties en actiehouders, meetmethoden en streefgetallen (beoogde effectiviteit).
+Het resultaat van het Afstemmingsoverleg is het, door het Canvas Board afgetekende Risicobehandelplan. Dit bevat afdelingsoverstijgende afspraken over risicobehandeling, prioriteiten, maatregelen, acties en actiehouders, meetmethoden en streefgetallen (beoogde effectiviteit).
 
 Het Risicobehandelplan vormt de grondslag voor een implementatieplan.
