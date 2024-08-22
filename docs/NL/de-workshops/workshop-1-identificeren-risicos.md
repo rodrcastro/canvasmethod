@@ -1,4 +1,4 @@
-# Workshop 1: Identificeren risico’s
+# Workshop 1: Risico’s
 
 De Workshop Facilitator geeft een korte introductie over het doel van het project, en de discipline informatiebeveiliging. Hierbij komen aan de orde:
 
