@@ -14,15 +14,19 @@ De samenstelling van het Canvas Board is afhankelijk van de structuur en rolverd
 
 ## Team Captain
 
-n.t.b.
+Verantwoordelijk voor de voorbereiding, uitvoering en verslaglegging van de workshops van zijn team. Vertegenwoordigt de belangen van zijn team in de alignment meeting. Rapporteert over de voortgang en effectiviteit van de Canvas Methode in de Management Review.
 
 ## Risico eigenaar
 
 De business owner is eigenaar van de risico’s, die impact hebben op haar bedrijfsproces en informatie-assets. Zij is dus degene die besluit of een (rest-)risico geaccepteerd mag worden.
 
+Doorgaans de manager van het organisatieonderdeel waarin een risico bestaat. Mag (in het Afstemmingsoverleg) beslissen of een risico acceptabel is (tenzij er redenen buiten zijn/haar afdeling zijn om daar van af te wijken).
+
 ## Workshop Facilitator
 
-De Workshop Facilitator is een procesbegeleider, het team besluit.
+Regisseert de voortgang in de Workshops zelf. Is geen lid van het Team en heeft geen inhoudelijk belang in de besluiten die genomen worden. De Workshop Facilitator is een procesbegeleider, het team besluit.
+
+Moet kennis hebben van het domein waarop de methode wordt toegepast (i.e. informatieveiligheid), van de processen en context van het Team en de organisatie.
 
 ## Canvas Team
 

@@ -73,4 +73,4 @@ Het Risicobehandelplan vormt de grondslag voor een implementatieplan.
 
 Projectplanning en -bewaking vallen buiten de scope van de Canvas Methode en kunnen ingericht worden in de systemen die de organisatie daarvoor heeft.
 
-Het is aan te raden om voor iedere maatregel een eigenaar vast te stellen (‘Control Owner’), die verantwoordelijk is voor de implementatie en documentatie van de maatregel.
+Het is aan te raden om voor iedere maatregel een eigenaar vast te stellen (‘Control Owner’), die verantwoordelijk is voor de implementatie en documentatie van de maatregel, inclusief de effectiviteitsmeting.
