@@ -41,6 +41,8 @@ Indien gewenst kan het proces geschetst worden als diagram.
 
 De Workshop Facilitator vraagt de deelnemers om de voor hun team of afdeling relevante risico’s rond de verwerking van informatie te noteren op Post-Its. Hij/zij herinnert ze hierbij eventueel aan de aspecten Beschikbaarheid, Vertrouwelijkheid en Integriteit van de informatie.
 
+Vraag de deelnemers om voor ieder risico's een nieuwe Post-It te gebruiken (dus één risico per Post-It). Laat ze op de Post-It ook hun initialen noteren, dat is handig voor de verslaglegging en als je achteraf een toelichting wilt vragen.
+
 Geef de deelnemers ruimte om hun zorgen op hun eigen manier te benoemen: wat ze opschrijven valt vaak niet binnen de formele definitie van een risico (een mogelijke gebeurtenis met negatieve gevolgen). In de praktijk zul je risico’s (‘laptop gestolen’), kwetsbaarheden (‘geen encryptie op laptop’), en gevolgen (‘datalek’) door elkaar heen terugkrijgen.
 
 De Workshop Facilitator bespreekt dan de genoteerde risico’s met de deelnemers: om welke (negatieve) gebeurtenis gaat het, door welke kwetsbaarheid wordt het risico veroorzaakt, en wat zijn de mogelijke gevolgen als het daadwerkelijk gebeurt.
@@ -58,6 +60,12 @@ De Workshop Facilitator licht toe, dat het doel hiervan alleen is het bepalen va
 ## Risicobehandeling
 
 De Workshop Facilitator pakt de risico’s met de hoogste prioriteiten, en bespreekt met de deelnemer of een risico door het team zelf aangepakt moet worden (‘mitigate’), of het risico door een ander team of partij aangepakt moet worden (‘transfer’), of het risico vermeden kan worden (‘avoid’), of het risico acceptabel is (‘accept’). De betreffende Post-It verhuist naar een van de vier kwadranten. De gekozen behandeling wordt genoteerd.
+
+## Verslaglegging
+
+Na afloop van de workshop zorgt de Workshop Facilitator voor een verslaglegging. Hieronder is een voorbeeld opgenomen van een manier waarop dat kan gebeuren. De Workshop Facilitator deelt de verslaglegging met de deelnemers aan de workshop.
+
+
 
 ## Verdieping
 
