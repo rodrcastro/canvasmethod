@@ -8,6 +8,10 @@ De Workshop Facilitator geeft een korte introductie over het doel van het projec
 * Risico = Probabiliteit x Impact
 * Het iteratieve karakter van de Canvas Methode: het hoeft niet compleet of correct te zijn, we verbreden, verdiepen en corrigeren in de volgende cyclus
 
+Hieronder is een voorbeeld opgenomen van een presentatie, die kan helpen om de bovenstaande onderwerpen over te brengen op de deelnemers.
+
+
+
 Vervolgens start hij/zij het interactieve deel van de workshop.
 
 De onderstaande onderwerpen worden behandeld met behulp van het Canvas.
