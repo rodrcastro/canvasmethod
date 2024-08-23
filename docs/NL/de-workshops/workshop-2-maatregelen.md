@@ -2,7 +2,13 @@
 
 Deze workshop is typisch een week na de eerste workshop (Risico identificatie).
 
-De Workshop Facilitator plakt de risico’s, die in de workshop Risico Identificatie aangemerkt zijn als: door het team zelf te behandelen (‘mitigate’), in de betreffende kolom.
+De Workshop Facilitator start de workshop met een korte presentatie, met daarin een terugblik op de vorige workshop (Risico's) en de doelen van de huidige workshop.
+
+Hieronder is een voorbeeld opgenomen van een presentatie, die kan helpen om de bovenstaande onderwerpen over te brengen op de deelnemers.
+
+{% file src="../.gitbook/assets/DATE Workshop Controls - Slide Deck  CLIENT.pdf" %}
+
+De Workshop Facilitator plakt de risico’s, die in de workshop Risico Identificatie aangemerkt zijn als: door het team zelf te behandelen (‘mitigate’), in de betreffende kolom, op volgorde van prioriteit (zoals vastgesteld in de workshop Risico's).
 
 De onderstaande onderwerpen worden behandeld met behulp van het Canvas.
 
@@ -31,6 +37,12 @@ Besproken wordt wie er binnen het team verantwoordelijk wordt voor de betreffend
   * de bijdrage van andere teamleden
 
 **Aan het eind van de workshop** herhaalt de Workshop Facilitator de afspraken over de implementatie van maatregelen. Hij kijkt vooruit naar de Alignment Meeting en de volgende workshop (Effectiviteit), waarin besproken zal worden welke resultaten geboekt zijn. Daarbij benoemt hij/zij ook de noodzaak van het bijhouden van een **indicentenregister**, en biedt daarvoor een template of tool aan. De Team Captain is verantwoordelijk voor het bijhouden daarvan.
+
+## Verslaglegging
+
+Na afloop van de workshop zorgt de Workshop Facilitator voor een verslaglegging. Hieronder is een voorbeeld opgenomen van een manier waarop dat kan gebeuren. De Workshop Facilitator deelt de verslaglegging met de deelnemers aan de workshop.
+
+{% file src="../.gitbook/assets/DATE Workshop Controls - Results  CLIENT.pdf" %}
 
 ### Alignment Meeting
 
