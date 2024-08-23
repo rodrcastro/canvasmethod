@@ -9,6 +9,7 @@
 
 ## De Workshops
 
+* [Voorbereiden van de workshops](de-workshops/voorbereiden-van-de-workshops.md)
 * [Workshop 1: Risico’s](de-workshops/workshop-1-identificeren-risicos.md)
 * [Workshop 2: Maatregelen](de-workshops/workshop-2-maatregelen.md)
 * [Workshop 3: Effectiviteit](de-workshops/workshop-3-effectiviteit.md)
@@ -17,4 +18,3 @@
 ***
 
 * [Sturen op informatieveiligheid](sturen-op-informatieveiligheid.md)
-* [Voorbereiden van de workshops](voorbereiden-van-de-workshops.md)
