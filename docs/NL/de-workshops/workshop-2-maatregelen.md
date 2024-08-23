@@ -32,6 +32,12 @@ Besproken wordt wie er binnen het team verantwoordelijk wordt voor de betreffend
 
 **Aan het eind van de workshop** herhaalt de Workshop Facilitator de afspraken over de implementatie van maatregelen. Hij kijkt vooruit naar de Alignment Meeting en de volgende workshop (Effectiviteit), waarin besproken zal worden welke resultaten geboekt zijn. Daarbij benoemt hij/zij ook de noodzaak van het bijhouden van een **indicentenregister**, en biedt daarvoor een template of tool aan. De Team Captain is verantwoordelijk voor het bijhouden daarvan.
 
+## Verslaglegging
+
+Na afloop van de workshop zorgt de Workshop Facilitator voor een verslaglegging. Hieronder is een voorbeeld opgenomen van een manier waarop dat kan gebeuren. De Workshop Facilitator deelt de verslaglegging met de deelnemers aan de workshop.
+
+{% file src="../.gitbook/assets/DATE Workshop Controls - Results  CLIENT.pdf" %}
+
 ### Alignment Meeting
 
 Als alle teams de Workshop Maatregelen hebben afgerond, volgt de Alignment Meeting (zie verderop)
