@@ -10,9 +10,9 @@ De Workshop Facilitator geeft een korte introductie over het doel van het projec
 
 Hieronder is een voorbeeld opgenomen van een presentatie, die kan helpen om de bovenstaande onderwerpen over te brengen op de deelnemers.
 
+{% file src="../.gitbook/assets/DATE Workshop Risks - Slide Deck  CLIENT.pdf" %}
 
-
-Vervolgens start hij/zij het interactieve deel van de workshop.
+Na de introductie start hij/zij het interactieve deel van de workshop.
 
 De onderstaande onderwerpen worden behandeld met behulp van het Canvas.
 
