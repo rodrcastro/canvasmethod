@@ -17,3 +17,4 @@
 ***
 
 * [Sturen op informatieveiligheid](sturen-op-informatieveiligheid.md)
+* [Voorbereiden van de workshops](voorbereiden-van-de-workshops.md)
