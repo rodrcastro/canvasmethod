@@ -2,6 +2,12 @@
 
 Deze workshop is typisch een week na de eerste workshop (Risico identificatie).
 
+De Workshop Facilitator start de workshop met een korte presentatie, met daarin een terugblik op de vorige workshop (Risico's) en de doelen van de huidige workshop.
+
+Hieronder is een voorbeeld opgenomen van een presentatie, die kan helpen om de bovenstaande onderwerpen over te brengen op de deelnemers.
+
+{% file src="../.gitbook/assets/DATE Workshop Controls - Slide Deck  CLIENT.pdf" %}
+
 De Workshop Facilitator plakt de risico’s, die in de workshop Risico Identificatie aangemerkt zijn als: door het team zelf te behandelen (‘mitigate’), in de betreffende kolom, op volgorde van prioriteit (zoals vastgesteld in de workshop Risico's).
 
 De onderstaande onderwerpen worden behandeld met behulp van het Canvas.
