@@ -16,3 +16,4 @@
 ***
 
 * [Sturen op informatieveiligheid](sturen-op-informatieveiligheid.md)
+* [Voorbereiden van de implementatie](voorbereiden-van-de-implementatie.md)
