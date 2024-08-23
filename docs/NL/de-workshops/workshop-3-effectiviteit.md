@@ -2,7 +2,12 @@
 
 Deze workshop is typisch 3 maanden na de tweede workshop (Maatregelen).
 
-De Workshop Facilitator verzamelt, evt. met hulp van de Team Captain, de eerder vastgestelde maatregelen, het incidentenregister, en de resultaten van effectiviteitsmetingen.
+De Workshop Facilitator bereidt, evt. met hulp van de Team Captain, de sessie voor:
+
+* selecteren van relevante incidenten (uit het incidentenregister)
+* gemaakte root cause analyses
+* de eerder vastgestelde maatregelen
+* resultaten van effectiviteitsmetingen.
 
 De onderstaande onderwerpen worden behandeld met behulp van het Canvas.
 
