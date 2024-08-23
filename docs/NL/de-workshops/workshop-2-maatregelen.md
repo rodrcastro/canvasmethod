@@ -2,7 +2,7 @@
 
 Deze workshop is typisch een week na de eerste workshop (Risico identificatie).
 
-De Workshop Facilitator plakt de risico’s, die in de workshop Risico Identificatie aangemerkt zijn als: door het team zelf te behandelen (‘mitigate’), in de betreffende kolom.
+De Workshop Facilitator plakt de risico’s, die in de workshop Risico Identificatie aangemerkt zijn als: door het team zelf te behandelen (‘mitigate’), in de betreffende kolom, op volgorde van prioriteit (zoals vastgesteld in de workshop Risico's).
 
 De onderstaande onderwerpen worden behandeld met behulp van het Canvas.
 
