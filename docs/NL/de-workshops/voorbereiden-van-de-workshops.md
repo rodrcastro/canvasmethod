@@ -1,11 +1,18 @@
 # Voorbereiden van de workshops
 
 1. Opstellen/opvragen van de deelnemerslijst (namen, mailadressen en rollen/functies, evt. voertaal)
-2. Faciliteiten:
+2. Bepalen van de scope (indien nodig, zie hieronder)
+3. Faciliteiten:
    * een ruimte waar we in passen en ook nog een beetje kunnen bewegen. liever geen statische U-vorm opstelling
    * laptops mogen thuis blijven!
    * een scherm om een presentatie op te tonen (usb-c, HDMI of wireless casting)
-3. Uitnodigen van de deelnemers, met voorinformatie, bijv.:
+4. Uitnodigen van de deelnemers, en verschaffen van voorinformatie - hieronder is een voorbeeld opgenomen van een uitnodiging.
+
+## Scope
+
+Het kan voorkomen dat de workshop georganiseerd wordt voor een groep deelnemers uit verschillende organisatieonderdelen, zoals bij een management sessie of in een pilot. De werkomgevingen van de deelnemers verschillen dan, evenals hun werkprocessen en de systemen waarmee ze werken. Om de discussie en resultaten betekenisvol te houden, helpt het om de scope te beperken tot een organisatieproces waarmee de meerderheid van de deelnemers te maken heeft of bekend is, zoals een customer journey of een employee journey.
+
+## Voorbeeld van een uitnodigingsmail
 
 > Beste Rein, Rybo, Pero, Tanvi, Tim, Sanneke en Jan,
 >
