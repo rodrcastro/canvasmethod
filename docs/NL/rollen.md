@@ -1,6 +1,6 @@
 # Rollen
 
-## Canvas Board
+## Het Canvas Board
 
 Het Canvas Board neemt besluiten over de prioritisering van risico's en maatregelen, de risicobehandeling, prioriteiten, maatregelen, acties en actiehouders, meetmethoden en streefgetallen (beoogde effectiviteit), welke door de Teams zijn voorgesteld.
 
