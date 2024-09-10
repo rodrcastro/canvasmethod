@@ -3,9 +3,9 @@
 * [Inleiding](README.md)
 * [Rollen](rollen.md)
 * [Voorbereiden van de implementatie](voorbereiden-van-de-implementatie.md)
-* [Voorbereiding eerste cyclus](oorbereiding-eerste-cyclus.md)
+* [Voorbereiding eerste cyclus](voorbereiding-eerste-cyclus.md)
 * [Afstemmingsoverleg](afstemmingsoverleg.md)
-* [Management Review](management-review.md)
+* [Management review](management-review.md)
 
 ## De Workshops
 
