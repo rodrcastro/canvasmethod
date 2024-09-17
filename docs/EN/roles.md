@@ -1,37 +1,37 @@
-# Rollen
+# Roles
 
-## Het Canvas Board
+## The Canvas Board
 
-Het Canvas Board neemt besluiten over de prioritisering van risico's en maatregelen, de risicobehandeling, prioriteiten, maatregelen, acties en actiehouders, meetmethoden en streefgetallen (beoogde effectiviteit), welke door de Teams zijn voorgesteld.
+The Canvas Board makes decisions regarding the prioritization of risks and measures, risk treatment, priorities, measures, actions and action owners, measurement methods, and targets (intended effectiveness) as proposed by the Teams.
 
-De samenstelling van het Canvas Board is afhankelijk van de structuur en rolverdeling binnen de organisatie, maar bestaat typisch uit:
+The composition of the Canvas Board depends on the structure and role distribution within the organization, but typically includes:
 
-* de business owners – zij zijn uiteindelijk de risicoeigenaar en moeten besluiten of en wanneer een restrisico geaccepteerd mag worden, en of maatregelen werkbaar zijn;
-* de CEO of Algemeen Directeur, die een besluit kan nemen wanneer de business owners geen overeenstemming kunnen bereiken;
-* de CISO, die (gedelegeerd) verantwoordelijk is voor de informatieveiligheid en de werking van het ISMS;
-* de Compliance Officer en/of de Functionaris Gegevensbescherming, en/of Kwaliteitsmanager, die (gedelegeerd) verantwoordelijk is voor compliance met relevante wet- en regelgeving en interne normenkaders;
-* de CIO, die (gedelegeerd) verantwoordelijk is voor de implementatie van (technische) beveiligingsmaatregelen, eventueel samen met de IT leverancier.
+* the business owners – they are ultimately the risk owners and must decide whether and when a residual risk may be accepted and whether measures are workable;
+* the CEO or General Director, who can make a decision when the business owners cannot reach an agreement;
+* the CISO, who is (delegated) responsible for information security and the operation of the ISMS;
+* the Compliance Officer and/or Data Protection Officer and/or Quality Manager, who is (delegated) responsible for compliance with relevant laws, regulations, and internal standards;
+* the CIO, who is (delegated) responsible for the implementation of (technical) security measures, possibly in collaboration with the IT provider.
 
 ## Team Captain
 
-Verantwoordelijk voor de voorbereiding, uitvoering en verslaglegging van de workshops van zijn team. Vertegenwoordigt de belangen van zijn team in de alignment meeting. Rapporteert over de voortgang en effectiviteit van de Canvas Methode in de Management Review.
+Responsible for the preparation, execution, and reporting of the workshops of their team. Represents the interests of their team in the alignment meeting. Reports on the progress and effectiveness of the Canvas Method in the Management Review.
 
-## Risico eigenaar
+## Risk Owner
 
-De business owner is eigenaar van de risico’s, die impact hebben op haar bedrijfsproces en informatie-assets. Zij is dus degene die besluit of een (rest-)risico geaccepteerd mag worden.
+The business owner is the owner of the risks that impact their business process and information assets. They are the one who decides whether a (residual) risk may be accepted.
 
-Doorgaans de manager van het organisatieonderdeel waarin een risico bestaat. Mag (in het Afstemmingsoverleg) beslissen of een risico acceptabel is (tenzij er redenen buiten zijn/haar afdeling zijn om daar van af te wijken).
+Typically, this is the manager of the organizational unit where a risk exists. They may decide (in the Alignment Meeting) whether a risk is acceptable (unless there are reasons outside their department to deviate from this).
 
 ## Workshop Facilitator
 
-Regisseert de voortgang in de Workshops zelf. Is geen lid van het Team en heeft geen inhoudelijk belang in de besluiten die genomen worden. De Workshop Facilitator is een procesbegeleider, het team besluit.
+Guides the progress of the Workshops themselves. Is not a member of the Team and has no vested interest in the decisions being made. The Workshop Facilitator is a process guide; the team makes the decisions.
 
-Moet kennis hebben van het domein waarop de methode wordt toegepast (i.e. informatieveiligheid), van de processen en context van het Team en de organisatie.
+Must have knowledge of the domain in which the method is applied (i.e., information security), as well as the processes and context of the Team and the organization.
 
 ## Canvas Team
 
-Een Canvas Team is een groep medewerkers die deelneemt aan een cyclus van workshops. Dit team vertegenwoordigt een bepaalde afdeling of functionele groep binnen de organisatie. Het team moet zich vrij voelen om risico's en maatregelen te bespreken, zonder daar op afgerekend te worden. Het is daarom vaak niet raadzaam om een hierarchisch verantwoordelijke op te nemen in het team: dit kan er toe leiden dat andere deelnemers sociaal wenselijk gedrag gaan vertonen en bepaalde risico’s niet, of anders benoemen.
+A Canvas Team is a group of employees who participate in a cycle of workshops. This team represents a particular department or functional group within the organization. The team must feel free to discuss risks and measures without being held accountable for them. Therefore, it is often not advisable to include a hierarchical superior in the team, as this may lead other participants to exhibit socially desirable behavior and either not mention or describe certain risks differently.
 
-## Deelnemer
+## Participant
 
-n.t.b.
+TBD.
