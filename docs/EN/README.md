@@ -16,4 +16,4 @@ Website: [https://canvasmethod.org](https://canvasmethod.org/)
 
 ## Contributions
 
-Like all materials, this guide for the Canvas Method is published under Creative Commons ([CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)). Contributions and suggestions for improvement are encouraged! You can do this via [GitHub](https://github.com/rkranendonk/canvasmethod) or by sending an email to richard@thinkingsecurity.works.
+Like all materials, this guide for the Canvas Method is published under Creative Commons ([CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)). Contributions and suggestions for improvement are encouraged! You can do this via [GitHub](https://github.com/rkranendonk/canvasmethod) or by sending an email to richard@thinkingsecurity.works. 
