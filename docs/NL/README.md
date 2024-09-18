@@ -15,3 +15,5 @@ Website: [https://canvasmethod.org](https://canvasmethod.org/)
 ## Bijdragen
 
 Net als alle materialen is ook deze handleiding bij de Canvasmethode gepubliceerd onder Creative Commons ([CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)). Bijdragen en suggesties voor verbering worden aangemoedigd! Dit kan via [GitHub](https://github.com/rkranendonk/canvasmethod) of door een mail te sturen aan richard@thinkingsecurity.works. 
+
+Change
