@@ -8,4 +8,9 @@ The Canvas Method is compatible with the High Level Structure (HLS) of ISO stand
 
 Here's a [short video](https://www.youtube.com/watch?v=Gy-yQ2UbSzA) highlighting the use of the Canvases in the domain of information security.
 
+The Canvaseses themselves can be found in the /EN (English version) and /NL (Dutch version) directories.
+Manuals can be found in the /docs directory. These are also published through https://docs.canvasmethod.org.
+
+Please note that everything here is a work in progress. If you find anything missing and/or would like to suggest improvements, please mail me at richard@thinkingsecurity.works.
+
 Website: https://canvasmethod.org
